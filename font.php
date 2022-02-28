@@ -25,7 +25,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("j.devilfont@Drift King Ex Demo.otf");
+        src: url("MiPancake.ttf");
       }
       #font1{
         font-family: "MyFont1";
