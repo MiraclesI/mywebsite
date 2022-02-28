@@ -21,7 +21,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("FC Subject Rounded Bold [Non-commercial use].otf");
+        src: url("Doughnut.ttf");
       }
       @font-face{
         font-family: "MyFont2";
